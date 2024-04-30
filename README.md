@@ -7,3 +7,5 @@ This MySQL project analyzes human resources data to determine employee demograph
 
 
 https://drive.google.com/file/d/14TowIbljjhIdPKejzsQtk4cnfjeP46Ii/view?usp=sharing
+
+https://drive.google.com/file/d/1zO__JAWBs4U7SsZGTsDhaFrd_Ija2s4E/view?usp=sharing
